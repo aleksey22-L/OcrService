@@ -1,0 +1,2 @@
+Please check parse arguments
+ocr_url_api = "https://api.ocr.space/parse/image"
