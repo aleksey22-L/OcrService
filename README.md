@@ -1,1 +1,1 @@
-# OcrService
+# Simple OCR using api.
